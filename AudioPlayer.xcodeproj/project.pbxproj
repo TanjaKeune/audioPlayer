@@ -12,6 +12,7 @@
 		9B1EEE4F1F4E0D4500934D78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B1EEE4D1F4E0D4500934D78 /* Main.storyboard */; };
 		9B1EEE511F4E0D4500934D78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B1EEE501F4E0D4500934D78 /* Assets.xcassets */; };
 		9B1EEE541F4E0D4500934D78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B1EEE521F4E0D4500934D78 /* LaunchScreen.storyboard */; };
+		9B1EEE5C1F4E54AA00934D78 /* Kinematic_-_Peyote.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9B1EEE5B1F4E54AA00934D78 /* Kinematic_-_Peyote.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9B1EEE501F4E0D4500934D78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B1EEE531F4E0D4500934D78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B1EEE551F4E0D4500934D78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B1EEE5B1F4E54AA00934D78 /* Kinematic_-_Peyote.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kinematic_-_Peyote.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				9B1EEE491F4E0D4500934D78 /* AppDelegate.swift */,
 				9B1EEE4B1F4E0D4500934D78 /* ViewController.swift */,
+				9B1EEE5B1F4E54AA00934D78 /* Kinematic_-_Peyote.mp3 */,
 				9B1EEE4D1F4E0D4500934D78 /* Main.storyboard */,
 				9B1EEE501F4E0D4500934D78 /* Assets.xcassets */,
 				9B1EEE521F4E0D4500934D78 /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			files = (
 				9B1EEE541F4E0D4500934D78 /* LaunchScreen.storyboard in Resources */,
 				9B1EEE511F4E0D4500934D78 /* Assets.xcassets in Resources */,
+				9B1EEE5C1F4E54AA00934D78 /* Kinematic_-_Peyote.mp3 in Resources */,
 				9B1EEE4F1F4E0D4500934D78 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
